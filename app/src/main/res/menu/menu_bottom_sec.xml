@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/secHomeBottomIcon"
+        android:title="@string/home"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:title="@string/search"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_search"/>
+    <item
+        android:title="@string/notifications"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_notification"/>
+    <item
+        android:title="@string/mail"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_mail"/>
+</menu>

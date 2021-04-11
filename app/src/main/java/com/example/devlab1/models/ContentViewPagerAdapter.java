@@ -10,6 +10,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
 import com.example.devlab1.FirstFragment;
+import com.example.devlab1.FourthFragment;
 import com.example.devlab1.R;
 import com.example.devlab1.SecondFragment;
 import com.example.devlab1.ThirdFragment;
@@ -30,12 +31,13 @@ public class ContentViewPagerAdapter extends FragmentPagerAdapter {
         switch (position) {
             case 0: return new FirstFragment();
             case 1: return new SecondFragment();
-            default: return new ThirdFragment();
+            case 2: return new ThirdFragment();
+            default: return new FourthFragment();
         }
     }
 
     @Override
     public int getCount() {
-        return 3;
+        return 4;
     }
 }

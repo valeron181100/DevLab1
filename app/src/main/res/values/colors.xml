@@ -20,4 +20,12 @@
     <color name="thd_colorPrimaryLight">#333333</color>
     <color name="thd_colorSecondary">#3E8FFB</color>
 
+    <color name="fourth_navBarColor">#000</color>
+
+    <color name="gray">#808080</color>
+    <color name="btnColor">#5FBCDF</color>
+    <color name="btnRegColor">#356678</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="fifth_btn_color">#E7E2DE</color>
+    <color name="fifth_enter_btn">#ABA6A2</color>
 </resources>

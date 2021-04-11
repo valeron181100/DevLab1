@@ -19,4 +19,15 @@
     <string name="thd_menu_list_2">Почтовые адреса</string>
     <string name="thd_menu_list_3">Данные о работадателе</string>
     <string name="thd_menu_list_4">Регион для платежей</string>
+    <string name="what_to">What to</string>
+    <string name="watch">Watch?</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_str">Войти</string>
+    <string name="no_acc_string">Нет аккаунта?</string>
+    <string name="reg_call_btn_string">Зарегистрируйся</string>
+    <string name="fab_add_mail">fab add mail</string>
+    <string name="exit_str">Выйти из\nприложения</string>
+    <string name="email_hint">Электронная почта</string>
+    <string name="enter_btn">Вход</string>
 </resources>
